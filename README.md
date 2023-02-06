@@ -7,4 +7,7 @@ I created one and then import 2000 CCD through the testnet faucet
 after all, I exported the keys of wallet in a .export file
 at the end i import the key into my concordium-client configuration successfully!
 
+my mainnet address is:
+4eSLGPfUgzwBC91p7H54ExRkaDMWzG994gXDxh5M1RuN8skzt4
+
 thanks to concordium team for the well-written docs!
